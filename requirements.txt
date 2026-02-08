@@ -1,0 +1,9 @@
+# Telegram Scraper 依赖
+# 从Telegram抓取消息和媒体文件的工具
+
+telethon>=1.24.0
+qrcode>=7.3.1
+pandas>=1.5.0  # 可选，用于数据分析
+
+# Python版本要求
+python_requires>=3.8
